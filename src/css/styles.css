@@ -98,11 +98,3 @@ p {
 	opacity: .5;
 	text-decoration: line-through;
 }
-@media only screen and (max-width: 700px) {
-	.header {
-		padding-left: 10vw;
-	}
-	input {
-		width: 80%;
-	}
-}
